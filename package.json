@@ -2,6 +2,7 @@
   "name": "deepseek-r1-chat",
   "displayName": "DeepSeek-R1 Chat",
   "description": "",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
