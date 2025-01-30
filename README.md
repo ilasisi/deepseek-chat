@@ -28,10 +28,10 @@ You may need to setup Ollama server and download the deepseek model:
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues and pull requests on [GitHub](https://github.com/ilasisi90/deepseek-chat).
+Contributions are welcome! Feel free to submit issues and pull requests on [GitHub](https://github.com/ilasisi/deepseek-chat).
 
 ## Support
 
-For issues or feature requests, please open an issue on [GitHub](https://github.com/ilasisi90/deepseek-chat/issues).
+For issues or feature requests, please open an issue on [GitHub](https://github.com/ilasisi/deepseek-chat/issues).
 
 # deepseek-chat
